@@ -1,5 +1,20 @@
 # ChromeOS Firmware Utility Scripts
 
+WARNING: This is a fork of the main repo of Mrchromebox and has not yet tested everything completely.
+It is only recommended for devs and advanced users who can bear the pain of flashing and unbricking their device if things don't go as ecpected.
+
+Tested: 
+
+  -None
+
+Expected:
+
+  -script that automates a wide series of actions making unbricking/flashing firmware without dev mode easier (requires external programmer kit) NOTE: For normal unbricking see https://docs.mrchromebox.tech/docs/support/unbricking
+  
+  -a gui tool to add random or custom VPD values to the rom before/after flashing (linux only)
+
+  -a clean and easy script to add custom logos/colors to the firmware before/after flashing (at your own risk)
+
 Home of the ChromeOS Firmware Utility script and Kodi E-Z Setup script.
 
 For home info, please visit https://mrchromebox.tech
