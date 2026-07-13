@@ -1,4 +1,4 @@
-# ChromeOS Firmware Utility Scripts
+# ChromeOS Firmware Utility Scripts (Advanced)
 
 WARNING: This is a fork of the main repo of Mrchromebox and has not yet tested everything completely.
 It is only recommended for devs and advanced users who can bear the pain of flashing and unbricking their device if things don't go as ecpected.
